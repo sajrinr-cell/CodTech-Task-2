@@ -1,0 +1,36 @@
+# Titanic Passenger Survival Prediction
+
+## Introduction
+
+The Titanic Passenger Survival Prediction project is a machine learning-based classification project that predicts whether a passenger survived the Titanic disaster. The model is trained using historical passenger data and uses machine learning techniques to make predictions and evaluate performance.
+
+## Objective
+
+To develop a machine learning model that can predict passenger survival and analyze the effectiveness of classification algorithms using accuracy and performance metrics.
+
+## Project Scope
+
+Develop a machine learning model to predict Titanic passenger survival and evaluate its performance using classification techniques and accuracy metrics.
+
+## Technologies Used
+
+* Python
+* Google Colab
+* Pandas
+* Scikit-learn
+
+## Methodology
+
+The dataset was loaded and preprocessed before being divided into training and testing sets. A classification algorithm was then trained using the training data. The trained model generated predictions on the test data, and its performance was evaluated using accuracy percentage and classification metrics.
+
+## Algorithm Used
+
+Random Forest Classifier
+
+## Results
+
+The model successfully predicted passenger survival status and achieved satisfactory accuracy. Performance was evaluated using accuracy score, precision, recall, and F1-score.
+
+## Conclusion
+
+This project demonstrates the application of machine learning in solving classification problems. It provides practical experience in data preprocessing, model training, prediction, and evaluation, helping to understand the complete machine learning workflow.
